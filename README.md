@@ -23,4 +23,5 @@ The **Data** folder* includes the data used in the analysis, and the **plots** f
 
 #### * Due to licensing, some data is not included in this repository, most notably data supplied by the Ordnance Survey. Where data which is not inlcuded is being read, this has been marked in the code by !!!, including instructions on how to obtain this data. 
 
+Do not hesitate to contact me [here](zcftssw@ucl.ac.uk) about any of the code or data
 
