@@ -19,6 +19,8 @@ To carry out the analysis, run the following files in order:
 9. **9_Predicting_NonDomestic** - Predicts non domestic energy consumption
 10. **10_Final_Results** - Produces final results presented in the report
 
-#### Due to licensing, some data is not included in this repository, most notably data supplied by the Ordnance Survey. Where OS data is being read, this has been marked in the code by !!!, including instructions how to obtain this data. 
+The **Data** folder* includes the data used in the analysis, and the **plots** folder includes figures produced by the analysis. 
+
+#### * Due to licensing, some data is not included in this repository, most notably data supplied by the Ordnance Survey. Where OS data is being read, this has been marked in the code by !!!, including instructi*ns how to obtain this data. 
 
 
