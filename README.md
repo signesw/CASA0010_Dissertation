@@ -21,7 +21,7 @@ To carry out the analysis, run the following files in order:
 
 The **Data** folder* includes the data used in the analysis, and the **plots** folder includes figures produced by the analysis. 
 
-#### * Due to licensing, some data is not included in this repository, most notably data supplied by the Ordnance Survey. Where data which is not inlcuded is being read, this has been marked in the code by !!!, including instructions on how to obtain this data. 
+#### * Due to licensing, some data is not included in this repository, most notably data supplied by the Ordnance Survey.Further, some datafiles are supplied in a very large format and cannot be added to this repository. Where data which is not inlcuded is being read, this has been marked in the code by !!!, including instructions on how to obtain this data. 
 
 Do not hesitate to contact me [here](mailto:zcftssw@ucl.ac.uk) about any of the code or data
 
